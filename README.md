@@ -21,9 +21,7 @@ estudos.
 ## �� Meus projetos
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|--------------|------|
-| �� **Jogo da Memória** | Descubra os pares nas imagens escondidas |
-HTML, CSS, JS | file:///C:/Users/artza/Downloads/Jogo%20Mem%C3%B3ria/Jogo%20Mem%C3%B3ria/jogo_memoria.html
- |
+| �� **Jogo da Memória** | Descubra os pares nas imagens escondidas | HTML, CSS, JS | file:///C:/Users/artza/Downloads/Jogo%20Mem%C3%B3ria/Jogo%20Mem%C3%B3ria/jogo_memoria.html |
 ---
 ## �� Como me encontrar
 - Email: **artzap070707@gmail.com**
