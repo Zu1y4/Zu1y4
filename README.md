@@ -6,9 +6,9 @@ estudos.
 ## �� Sobre mim
 - �� Apaixonado por jogos e desenvolvimento web
 - �� Atualmente estudando: HTML, CSS, JavaScript, GitHub
-- �� Interesse: criação de jogos 2D, programação, design e animação
+- �� Interesse: criação de jogos 2D e 3D, programação, design e animação
 - �� Objetivo: Criar meu portfólio com projetos reais funcionando
-- �� Localização: Santo André – SP
+- �� Localização: Diadema – SP
 ---
 ## �� Tecnologias que estou aprendendo
 - HTML5
@@ -21,12 +21,9 @@ estudos.
 ## �� Meus projetos
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|--------------|------|
-| �� **Jogo do Foguete** | Controle um foguete no céu estrelado |
-HTML, CSS, JS | [Acessar](link) |
-| �� **Unicórnio das Frutinhas** | Colete frutinhas com o unicórnio |
-HTML, CSS, JS | [Acessar](link) |
-| �� **Procure o Pingo** | Joguinho infantil de achar personagem |
-HTML, CSS, JS | [Acessar](link) |
+| �� **Jogo da Memória** | Descubra os pares nas imagens escondidas |
+HTML, CSS, JS | file:///C:/Users/artza/Downloads/Jogo%20Mem%C3%B3ria/Jogo%20Mem%C3%B3ria/jogo_memoria.html
+ |
 ---
 ## �� Como me encontrar
 - Email: **artzap070707@gmail.com**
